@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
-    "module": "commonjs",
+    "module": "commonjs234234234",
+    "ssss": "tttttt",
     "target": "es512312",
     "sourceMap": true
   },
