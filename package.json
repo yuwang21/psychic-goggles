@@ -1,6 +1,7 @@
 {
-  "name": "psychic-goggles",
-  "sign": "psychic-goggles",
+  "name": "psgles",
+  "sign": "psyes",
+  "avg": 99,
   "code": "psychic-goggles",
   "version": "1.0.0",
   "dependencies": {
