@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "module": "com",
-    "sign": 11111,
+    "sign": 11113453451,
     "module": "commonjs",
     "sign":"000000",
     "target": "es5",
