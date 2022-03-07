@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "module": "com",
-    "ss": "86",
+    "ss": "8336",
     "top":"1",
     "sign": 12,
     "moduele": "commonjs",
