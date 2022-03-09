@@ -1,8 +1,8 @@
 {
   "compilerOptions": {
     "module": "com",
-    "ss": "8",
-    "top":"1----",
+    "ss": "1111",
+    "top":"1122343",
     "sign": 12,
     "moduele": "commonjs",
     "target": "es5",
