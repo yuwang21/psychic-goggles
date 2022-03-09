@@ -5,7 +5,7 @@
     "top":"1122343",
     "sign": 12,
     "moduele": "coaaammonjs",
-    "target": "es5",
+    "target": "es511",
     "sourceMap": true
   },
   "exclude": [
