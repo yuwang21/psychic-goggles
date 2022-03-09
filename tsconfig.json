@@ -2,7 +2,7 @@
   "compilerOptions": {
     "module": "com",
     "ss": "",
-    "top":"1",
+    "top":"1123",
     "sign": 12,
     "moduele": "commonjs",
     "target": "es5",
